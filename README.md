@@ -1,6 +1,10 @@
 **# MP010**
-MP010 project
-Panc02 에서 MP010  효능 평가
+A Stroma-Sensing Molecular Platform for Spatial Targeting of TGF-β Provokes Durable Tumor Immunity
+
+Abstract 
+Accumulation of Transforming growth factor-β (TGF-β) within the immunosuppressive tumor microenvironment (TME) has been proposed as a major barrier to mounting an effective anti-tumor immunity. However, systemically administered TGF-β pathway inhibitors have shown limited clinical benefit in enhancing the response to immune checkpoint inhibitors in solid tumors. To overcome these hurdles, we developed a 'TME-sensing' soluble TGF-β type II receptor (TβRII)-Fc fusion protein (FEBP-sTβRII) containing a peptide that binds to the Extra Domain B (EDB) of fibronectin, which is expressed specifically in the extracellular matrix of the TME. FEBP-sTβRII was effectively delivered to the TME in aggressive and immune-resistant pancreatic and triple-negative breast cancer models and stimulated tumor regression by eliminating the stromal barrier and potently improving the immune environment through transcriptional reprogramming of cancer-associated fibroblasts and immune cells. Notably, FEBP-sTβRII induced a robust and sustained tumor-specific immune memory response that even extended to epithelial cancers of distinct histology. Importantly, the remarkable efficacy of FEBP-sTβRII is not associated with systemic immune activation or autoimmunity. The ‘TME-sensing’ FEBP-sTβRII offers a novel strategy for effectively treating various high-risk, immune-resistant or -cold tumors expressing fibronectin-EDB.
+
+#data
 
 
 **# RNA-seq**
@@ -8,15 +12,12 @@ DESeq2
 GSEA
 
 **# scRNA-seq**
-
-
-
-
-
-cell type annoatation_fig.R
-cell type annotation meta
-
-
+1. Panc02 model
+2. cell type annoatation_fig.R
+3. cell type annotation meta
+4. cell type population
+5. gene expression in each cell type 
+6. CCI analysis code
 
 
 ## 🧠 Software and Algorithms
